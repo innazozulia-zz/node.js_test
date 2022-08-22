@@ -1,0 +1,1 @@
+Now that we’ve covered what a remote repository is and why it’s necessary, it’s time to talk about how you can attach one to your local repository. Usually, this isn’t something that happens automatically -- you need to configure remotes by hand
